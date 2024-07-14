@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamisaifi" alt="shamisaifi" /></a> </p>
 
-- 🔭 I’m currently working on [basic social media web](https://amicii.netlify.app/)
-
-- 👯 I’m looking to collaborate with **any organisation**
+- 🔭 I’m currently working with Jarurat Care Foundation.
 
 - 📫 How to reach me **shamisaifi2003@gmail.com**
 
