@@ -1,68 +1,24 @@
-### Updated GitHub Profile README
+# 💫 About Me:
+- 👨‍💻 All of my projects are available [here](https://github.com/shamisaifi)<br>- 📫 How to reach me: **shamisaifi2003@gmail.com**<br>- ⚡ Fun fact: I love solving coding challenges & exploring new technologies!<br>
 
-```md
-<h1 align="center">Hi 👋, I'm Md Shami</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamisaifi&label=Profile%20views&color=0e75b6&style=flat" alt="shamisaifi" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shamisaifi&theme=dracula&no-frame=true&column=7" alt="shamisaifi" />
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shami) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MdShamiDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamisaifi2003@gmail.com) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shamisaifi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shamisaifi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamisaifi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🛠️ About Me
-- 🔭 I’m currently working with **Jarurat Care Foundation**
-- 🌱 I’m currently learning **Sanity CMS & Advanced MERN Stack**
-- 👨‍💻 All of my projects are available [here](https://github.com/shamisaifi)
-- 💬 Ask me about **MERN Stack, Web Development, APIs**
-- 📫 How to reach me: **shamisaifi2003@gmail.com**
-- ⚡ Fun fact: **I love solving coding challenges & exploring new technologies!**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shamisaifi&theme=city_lights&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shamisaifi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=shamisaifi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌍 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/md-shami" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="md-shami" />
-  </a>
-</p>
-
----
-
-### 🚀 Languages & Tools
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shamisaifi&show_icons=true&theme=tokyonight" alt="shamisaifi" />
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamisaifi&show_icons=true&layout=compact&theme=tokyonight" alt="shamisaifi" />
-</p>
-
----
-
-### 🏆 Achievements
-- ✅ Built a **Wallpaper Website** 🎨
-- ✅ Developing an **AI-powered Image Processing Website** 🖼️
-- ✅ Learning & mastering **Sanity CMS**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
