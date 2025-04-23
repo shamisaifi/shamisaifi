@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hello, I am Md Shami
+I am a Full Stack Developer <br>
 - 👨‍💻 All of my projects are available [here](https://github.com/shamisaifi)<br>- 📫 How to reach me: **shamisaifi2003@gmail.com**<br>- ⚡ Fun fact: I love solving coding challenges & exploring new technologies!<br>
 
 
