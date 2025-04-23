@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Md Shami
 
-🚀 I'm a **Full Stack Developer** passionate about building efficient, scalable, and user-friendly web applications.
+🚀 I'm a **Full Stack Developer** passionate about building efficient, scalable, and user-friendly web applications.<br>
 🌱 Currently sharpening my skills by working on real-world projects, learning new technologies, and contributing to open-source whenever possible.
 
 ## ⚡ Fun Facts
