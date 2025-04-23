@@ -11,7 +11,7 @@
 ## 📬 Let's Connect
 - 📫 Email: **shamisaifi2003@gmail.com**  
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/md-shami) 
-- 🌐 Portfolio: *[https://portfolio-shami.netlify.app/]*
+- 🌐 Portfolio: [View live](https://portfolio-shami.netlify.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shami) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MdShamiDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamisaifi2003@gmail.com) 
