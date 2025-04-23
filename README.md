@@ -1,26 +1,17 @@
 # 👋 Hello, I'm Md Shami
 
 🚀 I'm a **Full Stack Developer** passionate about building efficient, scalable, and user-friendly web applications.
-
 🌱 Currently sharpening my skills by working on real-world projects, learning new technologies, and contributing to open-source whenever possible.
-
-## 🛠️ Tech Stack
-- **Frontend**: React.js, Next.js, HTML, CSS, JavaScript, Tailwind CSS  
-- **Backend**: Node.js, Express.js, MongoDB, REST APIs  
-- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Vercel, Netlify  
-
-## 📂 Projects
-👨‍💻 All of my personal and collaborative projects are available [here on my GitHub](https://github.com/shamisaifi) – feel free to check them out!
-
-## 📬 Let's Connect
-- 📫 Email: **shamisaifi2003@gmail.com**  
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mdshami/) *(Add your LinkedIn if you have one)*  
-- 🌐 Portfolio: *[Your Portfolio URL if available]*
 
 ## ⚡ Fun Facts
 - 💻 I enjoy solving coding challenges and building creative side projects.
 - 🔍 Always curious to explore new frameworks, tools, and technologies.
 - 🎯 Currently focused on mastering backend development and system design.
+
+## 📬 Let's Connect
+- 📫 Email: **shamisaifi2003@gmail.com**  
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mdshami/) *(Add your LinkedIn if you have one)*  
+- 🌐 Portfolio: *[Your Portfolio URL if available]*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shami) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MdShamiDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shamisaifi2003@gmail.com) 
